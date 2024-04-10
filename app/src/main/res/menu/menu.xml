@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment1"
+        android:icon="@drawable/usuario_icon"
+        android:title="@string/item_primer_fragment"
+        />
+    <item
+        android:id="@+id/fragment2"
+        android:icon="@drawable/usuario_icon"
+        android:title="@string/item_segundo_fragment"
+        />
+    <item
+        android:id="@+id/fragment3"
+        android:icon="@drawable/usuario_icon"
+        android:title="@string/item_tercer_fragment"
+        />
+    <item
+        android:id="@+id/fragment4"
+        android:icon="@drawable/usuario_icon"
+        android:title="@string/item_cuarto_fragment"
+        />
+
+
+</menu>
